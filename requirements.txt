@@ -1,0 +1,12 @@
+gradio==4.26.0
+pymongo
+groq
+elevenlabs
+gtts
+speechrecognition
+pyaudio
+ffmpeg-python
+python-dotenv
+requests
+Pillow
+#pyaudio
