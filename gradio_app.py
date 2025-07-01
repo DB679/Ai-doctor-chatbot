@@ -100,7 +100,6 @@ with gr.Blocks(title="AI Doctor") as demo:
     )
 
 if __name__ == "__main__":
-    import gradio as gr
-    # your launch code like:
-    gr.Interface(...).launch(server_name="0.0.0.0", server_port=8080)
+    demo.launch(server_name="0.0.0.0", server_port=8080)
+
 
